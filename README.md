@@ -19,3 +19,5 @@ Everything I develop is ...
 ## My social links
 
 <a rel="me" href="https://mastodon.social/@lukasgabriel"><img src="https://joinmastodon.org/logos/logo-purple.svg"></a>
+
+<a rel="me" href="https://mastodon.social/@lukasgabriel">Link for verification</a>
